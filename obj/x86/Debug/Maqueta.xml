@@ -1,0 +1,172 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Maqueta
+</name>
+</assembly>
+<members>
+<member name="T:Maqueta.DGBDACCESSDataSet.ClientesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Maqueta.DGBDACCESSDataSet.ComprasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Maqueta.DGBDACCESSDataSet.ComprasDetalleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Maqueta.DGBDACCESSDataSet.JuegosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Maqueta.DGBDACCESSDataSet.ProveedorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Maqueta.DGBDACCESSDataSet.VentasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Maqueta.DGBDACCESSDataSet.VentasDetalleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Maqueta.DGBDACCESSDataSet.ClientesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Maqueta.DGBDACCESSDataSet.ComprasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Maqueta.DGBDACCESSDataSet.ComprasDetalleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Maqueta.DGBDACCESSDataSet.JuegosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Maqueta.DGBDACCESSDataSet.ProveedorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Maqueta.DGBDACCESSDataSet.VentasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Maqueta.DGBDACCESSDataSet.VentasDetalleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Maqueta.DGBDACCESSDataSet.ClientesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Maqueta.DGBDACCESSDataSet.ComprasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Maqueta.DGBDACCESSDataSet.ComprasDetalleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Maqueta.DGBDACCESSDataSet.JuegosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Maqueta.DGBDACCESSDataSet.ProveedorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Maqueta.DGBDACCESSDataSet.VentasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Maqueta.DGBDACCESSDataSet.VentasDetalleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Maqueta.DGBDACCESSDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Maqueta.DGBDACCESSDataSetTableAdapters.ClientesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Maqueta.DGBDACCESSDataSetTableAdapters.ComprasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Maqueta.DGBDACCESSDataSetTableAdapters.ComprasDetalleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Maqueta.DGBDACCESSDataSetTableAdapters.JuegosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Maqueta.DGBDACCESSDataSetTableAdapters.ProveedorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Maqueta.DGBDACCESSDataSetTableAdapters.VentasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Maqueta.DGBDACCESSDataSetTableAdapters.VentasDetalleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Maqueta.DGBDACCESSDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Maqueta.DGBDACCESSDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Maqueta.DGBDACCESSDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Maqueta.DGBDACCESSDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Maqueta.DGBDACCESSDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Maqueta.DGBDACCESSDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Maqueta.DGBDACCESSDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Maqueta.DGBDACCESSDataSetTableAdapters.TableAdapterManager.UpdateAll(Maqueta.DGBDACCESSDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Maqueta.DGBDACCESSDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Maqueta.DGBDACCESSDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Maqueta.DGBDACCESSDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Maqueta.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Maqueta.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Maqueta.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

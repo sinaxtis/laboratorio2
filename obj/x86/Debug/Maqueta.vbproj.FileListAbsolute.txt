@@ -1,0 +1,176 @@
+C:\Users\111756\AppData\Local\Temporary Projects\Maqueta\bin\Debug\Maqueta.exe
+C:\Users\111756\AppData\Local\Temporary Projects\Maqueta\bin\Debug\Maqueta.pdb
+C:\Users\111756\AppData\Local\Temporary Projects\Maqueta\bin\Debug\Maqueta.xml
+C:\Users\111756\AppData\Local\Temporary Projects\Maqueta\obj\x86\Debug\Maqueta.Form1.resources
+C:\Users\111756\AppData\Local\Temporary Projects\Maqueta\obj\x86\Debug\Maqueta.Form2.resources
+C:\Users\111756\AppData\Local\Temporary Projects\Maqueta\obj\x86\Debug\Maqueta.Resources.resources
+C:\Users\111756\AppData\Local\Temporary Projects\Maqueta\obj\x86\Debug\Maqueta.vbproj.GenerateResource.Cache
+C:\Users\111756\AppData\Local\Temporary Projects\Maqueta\obj\x86\Debug\Maqueta.exe
+C:\Users\111756\AppData\Local\Temporary Projects\Maqueta\obj\x86\Debug\Maqueta.xml
+C:\Users\111756\AppData\Local\Temporary Projects\Maqueta\obj\x86\Debug\Maqueta.pdb
+C:\Users\111756\AppData\Local\Temporary Projects\Maqueta\obj\x86\Debug\Maqueta.Form3.resources
+C:\Users\111756\AppData\Local\Temporary Projects\Maqueta\obj\x86\Debug\Maqueta.Form4.resources
+C:\Users\111756\AppData\Local\Temporary Projects\Maqueta\obj\x86\Debug\Maqueta.Form5.resources
+C:\Users\111756\AppData\Local\Temporary Projects\Maqueta\obj\x86\Debug\Maqueta.Form6.resources
+C:\Users\111756\documents\visual studio 2010\Projects\Maqueta\Maqueta\obj\x86\Debug\Maqueta.exe
+C:\Users\111756\documents\visual studio 2010\Projects\Maqueta\Maqueta\obj\x86\Debug\Maqueta.xml
+C:\Users\111756\documents\visual studio 2010\Projects\Maqueta\Maqueta\obj\x86\Debug\Maqueta.pdb
+C:\Users\111756\Desktop\Maqueta\Maqueta\obj\x86\Debug\Maqueta.exe
+C:\Users\111756\Desktop\Maqueta\Maqueta\obj\x86\Debug\Maqueta.xml
+C:\Users\111756\Desktop\Maqueta\Maqueta\obj\x86\Debug\Maqueta.pdb
+C:\Users\111756\Desktop\Maqueta\Maqueta\bin\Debug\Maqueta.exe
+C:\Users\111756\Desktop\Maqueta\Maqueta\bin\Debug\Maqueta.pdb
+C:\Users\111756\Desktop\Maqueta\Maqueta\bin\Debug\Maqueta.xml
+C:\Users\111756\Desktop\Maqueta\Maqueta\obj\x86\Debug\Maqueta.Form1.resources
+C:\Users\111756\Desktop\Maqueta\Maqueta\obj\x86\Debug\Maqueta.Form2.resources
+C:\Users\111756\Desktop\Maqueta\Maqueta\obj\x86\Debug\Maqueta.Form3.resources
+C:\Users\111756\Desktop\Maqueta\Maqueta\obj\x86\Debug\Maqueta.Form4.resources
+C:\Users\111756\Desktop\Maqueta\Maqueta\obj\x86\Debug\Maqueta.Form5.resources
+C:\Users\111756\Desktop\Maqueta\Maqueta\obj\x86\Debug\Maqueta.Form8.resources
+C:\Users\111756\Desktop\Maqueta\Maqueta\obj\x86\Debug\Maqueta.Resources.resources
+C:\Users\111756\Desktop\Maqueta\Maqueta\obj\x86\Debug\Maqueta.vbproj.GenerateResource.Cache
+C:\Users\111756\Desktop\Maqueta\Maqueta\obj\x86\Debug\Maqueta.Form9.resources
+C:\Users\111756\Desktop\Maqueta\Maqueta\obj\x86\Debug\Maqueta.Form10.resources
+C:\Users\111756\Desktop\Maqueta\Maqueta\obj\x86\Debug\Maqueta.Form6.resources
+C:\Users\111756\Desktop\Maqueta\Maqueta\bin\Debug\DGBDACCESS.accdb
+C:\Users\111756\Desktop\Maqueta\Maqueta\bin\Debug\Maqueta.exe.config
+C:\Documents and Settings\alvaro\My Documents\Downloads\MaquetaFinal\Maqueta\Maqueta\bin\Debug\Maqueta.exe.config
+C:\Documents and Settings\alvaro\My Documents\Downloads\MaquetaFinal\Maqueta\Maqueta\obj\x86\Debug\Maqueta.exe
+C:\Documents and Settings\alvaro\My Documents\Downloads\MaquetaFinal\Maqueta\Maqueta\obj\x86\Debug\Maqueta.xml
+C:\Documents and Settings\alvaro\My Documents\Downloads\MaquetaFinal\Maqueta\Maqueta\obj\x86\Debug\Maqueta.pdb
+C:\Documents and Settings\alvaro\My Documents\Downloads\MaquetaFinal\Maqueta\Maqueta\bin\Debug\DGBDACCESS.accdb
+C:\Documents and Settings\alvaro\My Documents\Downloads\MaquetaFinal\Maqueta\Maqueta\bin\Debug\Maqueta.exe
+C:\Documents and Settings\alvaro\My Documents\Downloads\MaquetaFinal\Maqueta\Maqueta\bin\Debug\Maqueta.pdb
+C:\Documents and Settings\alvaro\My Documents\Downloads\MaquetaFinal\Maqueta\Maqueta\bin\Debug\Maqueta.xml
+C:\Documents and Settings\alvaro\My Documents\Downloads\MaquetaFinal\Maqueta\Maqueta\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\alvaro\My Documents\Downloads\MaquetaFinal\Maqueta\Maqueta\obj\x86\Debug\Maqueta.Form1.resources
+C:\Documents and Settings\alvaro\My Documents\Downloads\MaquetaFinal\Maqueta\Maqueta\obj\x86\Debug\Maqueta.Form10.resources
+C:\Documents and Settings\alvaro\My Documents\Downloads\MaquetaFinal\Maqueta\Maqueta\obj\x86\Debug\Maqueta.Form2.resources
+C:\Documents and Settings\alvaro\My Documents\Downloads\MaquetaFinal\Maqueta\Maqueta\obj\x86\Debug\Maqueta.Form3.resources
+C:\Documents and Settings\alvaro\My Documents\Downloads\MaquetaFinal\Maqueta\Maqueta\obj\x86\Debug\Maqueta.Form4.resources
+C:\Documents and Settings\alvaro\My Documents\Downloads\MaquetaFinal\Maqueta\Maqueta\obj\x86\Debug\Maqueta.Form5.resources
+C:\Documents and Settings\alvaro\My Documents\Downloads\MaquetaFinal\Maqueta\Maqueta\obj\x86\Debug\Maqueta.Form6.resources
+C:\Documents and Settings\alvaro\My Documents\Downloads\MaquetaFinal\Maqueta\Maqueta\obj\x86\Debug\Maqueta.Form8.resources
+C:\Documents and Settings\alvaro\My Documents\Downloads\MaquetaFinal\Maqueta\Maqueta\obj\x86\Debug\Maqueta.Form9.resources
+C:\Documents and Settings\alvaro\My Documents\Downloads\MaquetaFinal\Maqueta\Maqueta\obj\x86\Debug\Maqueta.Resources.resources
+C:\Documents and Settings\alvaro\My Documents\Downloads\MaquetaFinal\Maqueta\Maqueta\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\alvaro\My Documents\Downloads\MaquetaFinal\Maqueta\Maqueta\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\alvaro\My Documents\Downloads\MaquetaFinal\Maqueta\Maqueta\obj\x86\Debug\Maqueta.Form11.resources
+C:\Users\111756\Desktop\Maqueta\bin\Debug\Maqueta.exe.config
+C:\Users\111756\Desktop\Maqueta\obj\x86\Debug\Maqueta.exe
+C:\Users\111756\Desktop\Maqueta\obj\x86\Debug\Maqueta.xml
+C:\Users\111756\Desktop\Maqueta\obj\x86\Debug\Maqueta.pdb
+C:\Users\111756\Desktop\Maqueta\bin\Debug\DGBDACCESS.accdb
+C:\Users\111756\Desktop\Maqueta\bin\Debug\Maqueta.exe
+C:\Users\111756\Desktop\Maqueta\bin\Debug\Maqueta.pdb
+C:\Users\111756\Desktop\Maqueta\bin\Debug\Maqueta.xml
+C:\Users\111756\Desktop\Maqueta\obj\x86\Debug\Maqueta.Form1.resources
+C:\Users\111756\Desktop\Maqueta\obj\x86\Debug\Maqueta.Form10.resources
+C:\Users\111756\Desktop\Maqueta\obj\x86\Debug\Maqueta.Form11.resources
+C:\Users\111756\Desktop\Maqueta\obj\x86\Debug\Maqueta.Form2.resources
+C:\Users\111756\Desktop\Maqueta\obj\x86\Debug\Maqueta.Form3.resources
+C:\Users\111756\Desktop\Maqueta\obj\x86\Debug\Maqueta.Form4.resources
+C:\Users\111756\Desktop\Maqueta\obj\x86\Debug\Maqueta.Form5.resources
+C:\Users\111756\Desktop\Maqueta\obj\x86\Debug\Maqueta.Form6.resources
+C:\Users\111756\Desktop\Maqueta\obj\x86\Debug\Maqueta.Form8.resources
+C:\Users\111756\Desktop\Maqueta\obj\x86\Debug\Maqueta.Form9.resources
+C:\Users\111756\Desktop\Maqueta\obj\x86\Debug\Maqueta.Resources.resources
+C:\Users\111756\Desktop\Maqueta\obj\x86\Debug\Maqueta.vbproj.GenerateResource.Cache
+C:\Users\111604\Desktop\Maqueta2810\bin\Debug\Maqueta.exe.config
+C:\Users\111604\Desktop\Maqueta2810\obj\x86\Debug\Maqueta.exe
+C:\Users\111604\Desktop\Maqueta2810\obj\x86\Debug\Maqueta.xml
+C:\Users\111604\Desktop\Maqueta2810\obj\x86\Debug\Maqueta.pdb
+C:\Users\111604\Desktop\Maqueta2810\bin\Debug\DGBDACCESS.accdb
+C:\Users\111604\Desktop\Maqueta2810\bin\Debug\Maqueta.exe
+C:\Users\111604\Desktop\Maqueta2810\bin\Debug\Maqueta.pdb
+C:\Users\111604\Desktop\Maqueta2810\bin\Debug\Maqueta.xml
+C:\Users\111604\Desktop\Maqueta2810\obj\x86\Debug\Maqueta.Form1.resources
+C:\Users\111604\Desktop\Maqueta2810\obj\x86\Debug\Maqueta.Form10.resources
+C:\Users\111604\Desktop\Maqueta2810\obj\x86\Debug\Maqueta.Form11.resources
+C:\Users\111604\Desktop\Maqueta2810\obj\x86\Debug\Maqueta.Form2.resources
+C:\Users\111604\Desktop\Maqueta2810\obj\x86\Debug\Maqueta.Form3.resources
+C:\Users\111604\Desktop\Maqueta2810\obj\x86\Debug\Maqueta.Form4.resources
+C:\Users\111604\Desktop\Maqueta2810\obj\x86\Debug\Maqueta.Form5.resources
+C:\Users\111604\Desktop\Maqueta2810\obj\x86\Debug\Maqueta.Form6.resources
+C:\Users\111604\Desktop\Maqueta2810\obj\x86\Debug\Maqueta.Form8.resources
+C:\Users\111604\Desktop\Maqueta2810\obj\x86\Debug\Maqueta.Form9.resources
+C:\Users\111604\Desktop\Maqueta2810\obj\x86\Debug\Maqueta.Resources.resources
+C:\Users\111604\Desktop\Maqueta2810\obj\x86\Debug\Maqueta.vbproj.GenerateResource.Cache
+C:\Users\111604\Desktop\Maqueta2810\obj\x86\Debug\Maqueta.Form12.resources
+C:\Users\111604\Desktop\Maqueta2810\obj\x86\Debug\Maqueta.Form13.resources
+C:\Documents and Settings\alvaro\My Documents\Downloads\Maqueta0411\Maqueta2810\bin\Debug\Maqueta.exe.config
+C:\Documents and Settings\alvaro\My Documents\Downloads\Maqueta0411\Maqueta2810\obj\x86\Debug\Maqueta.exe
+C:\Documents and Settings\alvaro\My Documents\Downloads\Maqueta0411\Maqueta2810\obj\x86\Debug\Maqueta.xml
+C:\Documents and Settings\alvaro\My Documents\Downloads\Maqueta0411\Maqueta2810\obj\x86\Debug\Maqueta.pdb
+C:\Documents and Settings\alvaro\My Documents\Downloads\Maqueta0411\Maqueta2810\bin\Debug\DGBDACCESS.accdb
+C:\Documents and Settings\alvaro\My Documents\Downloads\Maqueta0411\Maqueta2810\bin\Debug\Maqueta.exe
+C:\Documents and Settings\alvaro\My Documents\Downloads\Maqueta0411\Maqueta2810\bin\Debug\Maqueta.pdb
+C:\Documents and Settings\alvaro\My Documents\Downloads\Maqueta0411\Maqueta2810\bin\Debug\Maqueta.xml
+C:\Documents and Settings\alvaro\My Documents\Downloads\Maqueta0411\Maqueta2810\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\alvaro\My Documents\Downloads\Maqueta0411\Maqueta2810\obj\x86\Debug\Maqueta.Form1.resources
+C:\Documents and Settings\alvaro\My Documents\Downloads\Maqueta0411\Maqueta2810\obj\x86\Debug\Maqueta.Form10.resources
+C:\Documents and Settings\alvaro\My Documents\Downloads\Maqueta0411\Maqueta2810\obj\x86\Debug\Maqueta.Form11.resources
+C:\Documents and Settings\alvaro\My Documents\Downloads\Maqueta0411\Maqueta2810\obj\x86\Debug\Maqueta.Form12.resources
+C:\Documents and Settings\alvaro\My Documents\Downloads\Maqueta0411\Maqueta2810\obj\x86\Debug\Maqueta.Form13.resources
+C:\Documents and Settings\alvaro\My Documents\Downloads\Maqueta0411\Maqueta2810\obj\x86\Debug\Maqueta.Form2.resources
+C:\Documents and Settings\alvaro\My Documents\Downloads\Maqueta0411\Maqueta2810\obj\x86\Debug\Maqueta.Form3.resources
+C:\Documents and Settings\alvaro\My Documents\Downloads\Maqueta0411\Maqueta2810\obj\x86\Debug\Maqueta.Form4.resources
+C:\Documents and Settings\alvaro\My Documents\Downloads\Maqueta0411\Maqueta2810\obj\x86\Debug\Maqueta.Form5.resources
+C:\Documents and Settings\alvaro\My Documents\Downloads\Maqueta0411\Maqueta2810\obj\x86\Debug\Maqueta.Form6.resources
+C:\Documents and Settings\alvaro\My Documents\Downloads\Maqueta0411\Maqueta2810\obj\x86\Debug\Maqueta.Form8.resources
+C:\Documents and Settings\alvaro\My Documents\Downloads\Maqueta0411\Maqueta2810\obj\x86\Debug\Maqueta.Form9.resources
+C:\Documents and Settings\alvaro\My Documents\Downloads\Maqueta0411\Maqueta2810\obj\x86\Debug\Maqueta.Resources.resources
+C:\Documents and Settings\alvaro\My Documents\Downloads\Maqueta0411\Maqueta2810\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\alvaro\My Documents\Downloads\Maqueta0411\Maqueta2810\obj\x86\Debug\GenerateResource.write.1.tlog
+\\Mac\Home\Desktop\Maqueta0611\bin\Debug\Maqueta.exe.config
+\\Mac\Home\Desktop\Maqueta0611\obj\x86\Debug\Maqueta.exe
+\\Mac\Home\Desktop\Maqueta0611\obj\x86\Debug\Maqueta.xml
+\\Mac\Home\Desktop\Maqueta0611\obj\x86\Debug\Maqueta.pdb
+C:\Users\operativa\Desktop\Nueva carpeta\Maqueta0611\Maqueta0611\bin\Debug\Maqueta.exe.config
+C:\Users\operativa\Desktop\Nueva carpeta\Maqueta0611\Maqueta0611\obj\x86\Debug\Maqueta.exe
+C:\Users\operativa\Desktop\Nueva carpeta\Maqueta0611\Maqueta0611\obj\x86\Debug\Maqueta.xml
+C:\Users\operativa\Desktop\Nueva carpeta\Maqueta0611\Maqueta0611\obj\x86\Debug\Maqueta.pdb
+C:\Users\operativa\Desktop\Maqueta0611\bin\Debug\Maqueta.exe.config
+C:\Users\operativa\Desktop\Maqueta0611\obj\x86\Debug\Maqueta.exe
+C:\Users\operativa\Desktop\Maqueta0611\obj\x86\Debug\Maqueta.xml
+C:\Users\operativa\Desktop\Maqueta0611\obj\x86\Debug\Maqueta.pdb
+C:\Users\operativa\Desktop\Maqueta0611\obj\x86\Debug\Maqueta.Form10.resources
+C:\Users\operativa\Desktop\Maqueta0611\obj\x86\Debug\Maqueta.Form11.resources
+C:\Users\operativa\Desktop\Maqueta0611\obj\x86\Debug\Maqueta.Form12.resources
+C:\Users\operativa\Desktop\Maqueta0611\obj\x86\Debug\Maqueta.Form13.resources
+C:\Users\operativa\Desktop\Maqueta0611\obj\x86\Debug\Maqueta.Form2.resources
+C:\Users\operativa\Desktop\Maqueta0611\obj\x86\Debug\Maqueta.Form4.resources
+C:\Users\operativa\Desktop\Maqueta0611\obj\x86\Debug\Maqueta.Form5.resources
+C:\Users\operativa\Desktop\Maqueta0611\obj\x86\Debug\Maqueta.Form6.resources
+C:\Users\operativa\Desktop\Maqueta0611\obj\x86\Debug\Maqueta.Form8.resources
+C:\Users\operativa\Desktop\Maqueta0611\obj\x86\Debug\Maqueta.Form9.resources
+C:\Users\operativa\Desktop\Maqueta0611\obj\x86\Debug\Maqueta.Resources.resources
+C:\Users\operativa\Desktop\Maqueta0611\obj\x86\Debug\Maqueta.vbproj.GenerateResource.Cache
+C:\Users\operativa\Desktop\Maqueta0611\obj\x86\Debug\Maqueta.menu.resources
+C:\Users\operativa\Desktop\Maqueta0611\obj\x86\Debug\Maqueta.proveedores.resources
+C:\Users\operativa\Desktop\Maqueta0611\bin\Debug\DGBDACCESS.accdb
+C:\Users\operativa\Desktop\Maqueta0611\bin\Debug\Maqueta.exe
+C:\Users\operativa\Desktop\Maqueta0611\bin\Debug\Maqueta.pdb
+C:\Users\operativa\Desktop\Maqueta0611\bin\Debug\Maqueta.xml
+C:\Users\operativa\Downloads\tuVieja-27-10\Maqueta0611\bin\Debug\Maqueta.exe.config
+C:\Users\operativa\Downloads\tuVieja-27-10\Maqueta0611\obj\x86\Debug\Maqueta.exe
+C:\Users\operativa\Downloads\tuVieja-27-10\Maqueta0611\obj\x86\Debug\Maqueta.xml
+C:\Users\operativa\Downloads\tuVieja-27-10\Maqueta0611\obj\x86\Debug\Maqueta.pdb
+C:\Users\operativa\Downloads\tuVieja-27-10\Maqueta0611\bin\Debug\DGBDACCESS.accdb
+C:\Users\operativa\Downloads\tuVieja-27-10\Maqueta0611\bin\Debug\Maqueta.exe
+C:\Users\operativa\Downloads\tuVieja-27-10\Maqueta0611\bin\Debug\Maqueta.pdb
+C:\Users\operativa\Downloads\tuVieja-27-10\Maqueta0611\bin\Debug\Maqueta.xml
+C:\Users\operativa\Downloads\tuVieja-27-10\Maqueta0611\obj\x86\Debug\Maqueta.menu.resources
+C:\Users\operativa\Downloads\tuVieja-27-10\Maqueta0611\obj\x86\Debug\Maqueta.Form10.resources
+C:\Users\operativa\Downloads\tuVieja-27-10\Maqueta0611\obj\x86\Debug\Maqueta.Form13.resources
+C:\Users\operativa\Downloads\tuVieja-27-10\Maqueta0611\obj\x86\Debug\Maqueta.Form2.resources
+C:\Users\operativa\Downloads\tuVieja-27-10\Maqueta0611\obj\x86\Debug\Maqueta.proveedores.resources
+C:\Users\operativa\Downloads\tuVieja-27-10\Maqueta0611\obj\x86\Debug\Maqueta.Resources.resources
+C:\Users\operativa\Downloads\tuVieja-27-10\Maqueta0611\obj\x86\Debug\Maqueta.vbproj.GenerateResource.Cache
+C:\Users\operativa\Downloads\tuVieja-27-10\Maqueta0611\obj\x86\Debug\Maqueta.clientes.resources
+C:\Users\operativa\Downloads\tuVieja-27-10\Maqueta0611\obj\x86\Debug\Maqueta.eliminarjuego.resources
+C:\Users\operativa\Downloads\tuVieja-27-10\Maqueta0611\obj\x86\Debug\Maqueta.vercompras.resources
+C:\Users\operativa\Downloads\tuVieja-27-10\Maqueta0611\obj\x86\Debug\Maqueta.compras.resources
+C:\Users\operativa\Downloads\tuVieja-27-10\Maqueta0611\obj\x86\Debug\Maqueta.juegos.resources
+C:\Users\operativa\Downloads\tuVieja-27-10\Maqueta0611\obj\x86\Debug\Maqueta.ventas.resources
+C:\Users\operativa\Downloads\tuVieja-27-10\Maqueta0611\obj\x86\Debug\Maqueta.juegosAlta.resources

@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9F06C6EF-2477-4FC4-995E-9E0462116331}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Maqueta.My.MyApplication</StartupObject>
+    <RootNamespace>Maqueta</RootNamespace>
+    <AssemblyName>Maqueta</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Maqueta.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Maqueta.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DGBDACCESSDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DGBDACCESSDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menu.Designer.vb">
+      <DependentUpon>menu.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="proveedores-alta.Designer.vb">
+      <DependentUpon>proveedores-alta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="proveedores-alta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eliminarjuego.Designer.vb">
+      <DependentUpon>eliminarjuego.vb</DependentUpon>
+    </Compile>
+    <Compile Include="eliminarjuego.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vercompras.Designer.vb">
+      <DependentUpon>vercompras.vb</DependentUpon>
+    </Compile>
+    <Compile Include="vercompras.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="compra-alta.Designer.vb">
+      <DependentUpon>compra-alta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="compra-alta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ventas-alta.Designer.vb">
+      <DependentUpon>ventas-alta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ventas-alta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="proveedores.Designer.vb">
+      <DependentUpon>proveedores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="proveedores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="compras.Designer.vb">
+      <DependentUpon>compras.vb</DependentUpon>
+    </Compile>
+    <Compile Include="compras.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="juegos.Designer.vb">
+      <DependentUpon>juegos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="juegos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ventas.Designer.vb">
+      <DependentUpon>ventas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ventas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="juegos-alta.Designer.vb">
+      <DependentUpon>juegos-alta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="juegos-alta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="clientes.Designer.vb">
+      <DependentUpon>clientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="clientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="menu.resx">
+      <DependentUpon>menu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="proveedores-alta.resx">
+      <DependentUpon>proveedores-alta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eliminarjuego.resx">
+      <DependentUpon>eliminarjuego.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vercompras.resx">
+      <DependentUpon>vercompras.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="compra-alta.resx">
+      <DependentUpon>compra-alta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ventas-alta.resx">
+      <DependentUpon>ventas-alta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="proveedores.resx">
+      <DependentUpon>proveedores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="compras.resx">
+      <DependentUpon>compras.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="juegos.resx">
+      <DependentUpon>juegos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ventas.resx">
+      <DependentUpon>ventas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="juegos-alta.resx">
+      <DependentUpon>juegos-alta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="clientes.resx">
+      <DependentUpon>clientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="DGBDACCESSDataSet.xsc">
+      <DependentUpon>DGBDACCESSDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DGBDACCESSDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DGBDACCESSDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DGBDACCESSDataSet.xss">
+      <DependentUpon>DGBDACCESSDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DGBDACCESS.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
